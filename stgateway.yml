@@ -36,3 +36,5 @@ management:
   endpoint:
     gateway:
       enabled: true
+app:
+  message: This is gateway service from git
